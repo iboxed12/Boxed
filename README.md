@@ -1,36 +1,56 @@
-# 💻 Witaj na moim profilu GitHub! 🚀
+<!-- Title Section -->
+<h1 align="center">Welcome to My GitHub! 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/YourUsername?style=flat-square" alt="Followers">
+</p>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4CA1AF,100:C4E0E5&height=200&section=header&text=Hi!%20I'm%20[Twoje%20Imię]&fontSize=50&fontAlign=50&animation=fadeIn)
-
-### 🧑‍💻 O mnie
-Jestem pasjonatem technologii i programowania, który stale rozwija swoje umiejętności w tworzeniu nowoczesnych aplikacji i systemów. Oto co robię:
-- 🛠️ Specjalizuję się w: **[Twoje technologie, np. Python, JavaScript, React, etc.]**
-- 🌱 Uczę się: **[np. sztucznej inteligencji, blockchain, nowych technologii]**
-- 🖋️ Pasjonuję się: **open-source i tworzeniem przydatnych narzędzi**
-- 🎯 Moje cele: **[np. Bycie liderem technologicznym, rozwój w AI]**
-
----
-
-### 🛠 Technologie i narzędzia, które znam
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+<!-- Animated Banner or Custom Logo -->
+<p align="center">
+  <img src="path_to_custom_banner_or_logo.gif" alt="Custom Banner or Logo" width="800px">
+</p>
 
 ---
 
-### 📊 Statystyki GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwojeUsername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwojeUsername&layout=compact&theme=radical)
-
----
-
-### 🌟 Psst! Zajrzyj na moje projekty:
-🔗 [Twój Link #1](https://github.com)  
-🔗 [Twój Link #2](https://github.com)  
+### 🔧 About Me
+- 👨‍💻 Developer with expertise in **[Your Expertise Areas]**.
+- 🌱 Currently learning **[Your Learning Topics]**.
+- 🎮 Building projects like **interactive games** and **automation tools**.
+- 📫 Contact me via **[Your Email]** or **[Your LinkedIn]**.
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C4E0E5,100:4CA1AF&height=150&section=footer)
+### 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/YourUsername/Project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1" alt="Project 1">
+  </a>
+  <a href="https://github.com/YourUsername/Project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project2" alt="Project 2">
+  </a>
+</p>
+
+---
+
+### ⚡ Technologies & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,python,docker,github" alt="Technologies">
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="Streak Stats">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourUsername&theme=radical" alt="Profile Details">
+</p>
+
+---
+
+### 🔗 Quick Links
+- 🌐 [Personal Website](https://YourWebsite.com)
+- 📝 [Blog](https://YourBlog.com)
+- 🛠️ [My Tools](https://github.com/YourUsername)
